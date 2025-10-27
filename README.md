@@ -1,3 +1,4 @@
+<!-- <<<<<<< HEAD
 # DataGuard - Automatic Preprocessing (Streamlit)
 
 1. Create virtualenv (recommended):
@@ -19,3 +20,6 @@ Features:
 - Configure preprocessing options
 - Run automated pipeline (rename columns, remove duplicates, impute missing, encode categorical, scale numeric, remove outliers)
 - Download cleaned CSV and view/save HTML preprocessing report
+=======
+# worked_drdqm
+>>>>>>> 9ce35218aecdc0b367169c281c141c484e746ea2 -->
